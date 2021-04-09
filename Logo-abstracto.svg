@@ -1,0 +1,10 @@
+<svg id="Componente_1_1" data-name="Componente 1 – 1" xmlns="http://www.w3.org/2000/svg" width="644" height="644" viewBox="0 0 644 644">
+  <rect id="Rectángulo_1" data-name="Rectángulo 1" width="161" height="161" rx="20" transform="translate(322)" fill="#40300f"/>
+  <rect id="Rectángulo_3" data-name="Rectángulo 3" width="161" height="161" rx="20" transform="translate(161 161)" fill="#ffc03e" opacity="0.3"/>
+  <rect id="Rectángulo_4" data-name="Rectángulo 4" width="161" height="161" rx="20" transform="translate(483 161)" fill="#ffc03e" opacity="0.29"/>
+  <rect id="Rectángulo_5" data-name="Rectángulo 5" width="161" height="161" rx="20" transform="translate(322 322)" fill="#40300f"/>
+  <rect id="Rectángulo_6" data-name="Rectángulo 6" width="161" height="161" rx="20" transform="translate(161 483)" fill="#ffc03e" opacity="0.3"/>
+  <rect id="Rectángulo_7" data-name="Rectángulo 7" width="161" height="161" rx="20" transform="translate(0 322)" fill="#40300f"/>
+  <circle id="Elipse_1" data-name="Elipse 1" cx="80.5" cy="80.5" r="80.5" transform="translate(322 162)" fill="#ffbe3d"/>
+  <circle id="Elipse_3" data-name="Elipse 3" cx="80.5" cy="80.5" r="80.5" transform="translate(161 322)" fill="#ffc03e"/>
+</svg>
