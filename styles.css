@@ -793,6 +793,10 @@ grid-row: auto;
 grid-gap:40px;
 }
 
+    .projects-text{
+  text-align: center;
+}
+    
 .pro-card-1{
     grid-column: 1/2;
     grid-row: 1/2;
